@@ -34,4 +34,4 @@ O **AluraBooks** é uma página web responsiva para uma livraria, utilizando o c
 
 **OU**
 
-Acesse [o site do projeto](https://www.magoga-br.github.io/alurabook).
+Acesse [o site do projeto](https://www.magoga-br.github.io/Alurabook).
