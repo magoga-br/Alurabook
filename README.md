@@ -31,3 +31,7 @@ O **AluraBooks** é uma página web responsiva para uma livraria, utilizando o c
    git clone https://github.com/seu-usuario/Alurabook.git
    ```
 2. Abra o arquivo `index.html` no seu navegador.
+
+**OU**
+
+Acesse [o site do projeto](https://www.magoga-br.github.io/alurabook).
